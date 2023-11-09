@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é app para ajudar a guardar os hábitos.
 
--[Visite o projeto online] (https://brunofg1.github.io/NWL-Setup)
+-[Visite o projeto online] (https://brunofg1.github.io/NLW-Setup)
 
 ## 🔖 Layout
 
